@@ -11,4 +11,4 @@ Solve:
 3.Try adding a transformer in the preparation pipeline to select only the most important attributes.     
 
 #   
-outputs are stores in images folder
+Outputs are stores in images folder
