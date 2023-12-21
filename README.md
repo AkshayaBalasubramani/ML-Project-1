@@ -3,7 +3,7 @@ Assessment 1-House Price Prediction
 
 Using the housing dataset Regression Model - Based on Chapter 2:Aurelion Geron's Hands On Machine Learning: 
 
-Solve:`<br>`
+Solve:           
 1.Try replacing GridSearchCV with RandomizedSearchCV. 
 \n
 2.Create a single pipeline that does the full data preparation plus the final prediction.
